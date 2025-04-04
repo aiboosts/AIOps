@@ -7,7 +7,7 @@ This Repository is the first step to AIOps.
 3. kubectl client (k9s)
 
 ## Video
-[Youtube Video](https://www.youtube.com/@AIBOOSTYTX)
+[Youtube Video](https://www.youtube.com/watch?v=wHXqidaL7ag)
 
 ## Youtube Channel
 Check out our Youtube Channel for introduction [Channel](https://www.youtube.com/@AIBOOSTYTX)
